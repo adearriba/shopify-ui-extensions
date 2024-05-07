@@ -1,0 +1,14 @@
+{
+  "name": "@adearriba/shopify-ui-extensions",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "adearriba",
+  "license": "MIT",
+  "dependencies": {
+    "vitest": "^1.6.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@adearriba/shopify-ui-extensions-checkout",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adearriba",
+  "license": "MIT",
+  "dependencies": {
+    "@shopify/ui-extensions": "^2024.4.1",
+    "@shopify/ui-extensions-react": "^2024.4.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.1",
+    "react-reconciler": "^0.29.2"
+  }
+}
