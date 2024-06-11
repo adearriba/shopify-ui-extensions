@@ -9,11 +9,11 @@
   "author": "adearriba",
   "license": "MIT",
   "dependencies": {
-    "@shopify/ui-extensions": "^2024.4.1",
-    "@shopify/ui-extensions-react": "^2024.4.1"
+    "@shopify/ui-extensions": "^2024.4.2",
+    "@shopify/ui-extensions-react": "^2024.4.2"
   },
   "devDependencies": {
-    "@types/react": "^18.3.1",
+    "@types/react": "^18.3.3",
     "react-reconciler": "^0.29.2"
   }
 }

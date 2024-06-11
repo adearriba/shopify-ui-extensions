@@ -10,5 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "vitest": "^1.6.0"
-  }
+  },
+  "workspaces": [
+    "packages/*"
+  ]
 }
